@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KakaoMapTest</string>
+
+    <string name="zoomin">+</string>
+    <string name="zoomout">-</string>
+
+</resources>
